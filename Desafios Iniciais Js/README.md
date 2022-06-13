@@ -56,7 +56,6 @@ Tome cuidado! Algumas linguagens tem por padrão apresentarem como saída 1e+006
 | 6                 | 2^2 = 4          |
 |                   | 4^2 = 16         | 
 |                   | 6^2 = 36         | 
-|                   |                  |
 
 </br>
 
@@ -85,7 +84,6 @@ Imprima todos valores que quando divididos por N dão resto = 2, um por linha.
 |                   | 28               | 
 |                   | 41               | 
 |                   | ...              | 
-|                   |                  |
 
 </br>
 
@@ -118,4 +116,3 @@ Seu programa deve produzir uma única linha contendo um único número inteiro, 
 | 2 4 3 2           | 8                |
 | 6 6 6 6           | 21               | 
 | 2 2 2 2           | 5                | 
-|                   |                  |
